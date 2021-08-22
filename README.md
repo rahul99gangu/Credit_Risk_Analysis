@@ -3,6 +3,7 @@ Evaluate the performance of multiple machine learning models using sampling and 
 
 ## Overview
 The purpose of this analysis was to build and evaluate various machine learning models to evaluate individual customer credit risk. The dataset used to train the models was from LendingClub, "a peer-to-peer lending services company." After being cleaned, the dataset consisted of 68,817 entries, and was heavily unbalanced, with only 0.5% of entries being classified as "high-risk."
+
 <img width="488" alt="Data Set Loan Status" src="https://user-images.githubusercontent.com/82982480/130356894-3e2bf99d-45b3-45b7-9064-db3fe3091fdf.png">
 
 The machine learning algorithms used were:
