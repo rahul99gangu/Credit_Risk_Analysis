@@ -449,9 +449,9 @@ We publicly commit to:
 ## 10. Contact
 
 **Questions or Concerns about AI Ethics**:
-- Email: ai-ethics@company.com
+- Email: Rahul99gangu@gmail.com
 - Phone: 1-800-XXX-XXXX (Ethics Hotline)
-- Form: [Anonymous Ethics Report Form]
+- Form: 
 
 **Regulatory Inquiries**:
 - Compliance Officer: compliance@company.com
@@ -462,9 +462,9 @@ We publicly commit to:
 
 | Role | Name | Date |
 |------|------|------|
-| Chief Risk Officer | [Name] | Oct 30, 2025 |
-| AI Product Manager | [Your Name] | Oct 30, 2025 |
-| Compliance Officer | [Name] | Oct 30, 2025 |
-| External Ethics Advisor | [Name] | Oct 30, 2025 |
+| Chief Risk Officer | [Name] | Sep 30, 2025 |
+| AI Product Manager | Rahul Gangu| Sep 30, 2025 |
+| Compliance Officer | [Name] | Sep 30, 2025 |
+| External Ethics Advisor | [Name] | Sep 30, 2025 |
 
 **Next Review**: January 15, 2026
