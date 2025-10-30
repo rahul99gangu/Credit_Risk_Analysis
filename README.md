@@ -528,11 +528,11 @@ print(response.json())
 
 ## 📞 Contact & Portfolio
 
-**Project Author**: [Your Name]
+**Project Author**: Rahul Kumar Reddy Gangu
 **Role**: AI Product Manager
-**LinkedIn**: [Your LinkedIn]
+**LinkedIn**: https://www.linkedin.com/in/rahulgangu/
 **Portfolio**: [Your Portfolio URL]
-**Email**: [Your Email]
+**Email**: rahul99gangu@gmail.com
 
 ---
 
