@@ -441,7 +441,7 @@ Target: >80/100
 
 | Role | Name | Signature | Date |
 |------|------|-----------|------|
-| Product Manager | [Your Name] | _________ | 2025-10-30 |
+| Product Manager | Rahul Gangu | _________ | 2025-09-30 |
 | Engineering Lead | [Name] | _________ | _______ |
 | Compliance Officer | [Name] | _________ | _______ |
 | VP of Product | [Name] | _________ | _______ |
