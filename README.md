@@ -9,9 +9,8 @@ The purpose of this analysis was to build and evaluate various machine learning 
 The machine learning algorithms used were:
 * RandomOverSampler
 * SMOTE
-* SMOTEEN
+* SMOTEENN
 * ClusterCentroids
-* RandomOverSampler
 * BalancedRandomForestClassifier
 * EasyEnsembleClassifier
 
